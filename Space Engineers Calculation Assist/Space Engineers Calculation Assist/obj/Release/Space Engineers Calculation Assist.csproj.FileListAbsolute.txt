@@ -1,0 +1,12 @@
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Space Engineers Calculation Assist\Space Engineers Calculation Assist\obj\Release\Space Engineers Calculation Assist.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Space Engineers Calculation Assist\Space Engineers Calculation Assist\obj\Release\Space_Engineers_Calculation_Assit.LaunchCalcMenu.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Space Engineers Calculation Assist\Space Engineers Calculation Assist\obj\Release\Space_Engineers_Calculation_Assit.MainMenu.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Space Engineers Calculation Assist\Space Engineers Calculation Assist\obj\Release\Space_Engineers_Calculation_Assit.PowerCalcMenu.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Space Engineers Calculation Assist\Space Engineers Calculation Assist\obj\Release\Space_Engineers_Calculation_Assit.TravelCalcMenu.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Space Engineers Calculation Assist\Space Engineers Calculation Assist\obj\Release\Space Engineers Calculation Assist.csproj.GenerateResource.Cache
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Space Engineers Calculation Assist\Space Engineers Calculation Assist\bin\Release\Space Engineers Calculation Assist.exe.config
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Space Engineers Calculation Assist\Space Engineers Calculation Assist\bin\Release\Space Engineers Calculation Assist.exe
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Space Engineers Calculation Assist\Space Engineers Calculation Assist\bin\Release\Space Engineers Calculation Assist.pdb
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Space Engineers Calculation Assist\Space Engineers Calculation Assist\obj\Release\Space_Engineers_Calculation_Assist.Properties.Resources.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Space Engineers Calculation Assist\Space Engineers Calculation Assist\obj\Release\Space Engineers Calculation Assist.exe
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Space Engineers Calculation Assist\Space Engineers Calculation Assist\obj\Release\Space Engineers Calculation Assist.pdb
